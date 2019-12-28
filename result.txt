@@ -1,0 +1,4 @@
+
+2017_mel_resnet50_e100_b32: {"mel_Accuracy": 0.865, "mel_Sensitive": 0.5726495726495726, "mel_Specificity": 0.9358178053830227, "mel_AUC": 0.8657429526994744}
+2017_mel_arlnet50_e100_b32: {"mel_Accuracy": 0.85, "mel_Sensitive": 0.48717948717948717, "mel_Specificity": 0.937888198757764, "mel_AUC": 0.8729450903363947}
+2017_mel_arlnet50_e100_b32: {"mel_Accuracy": 0.85, "mel_Sensitive": 0.48717948717948717, "mel_Specificity": 0.937888198757764, "mel_AUC": 0.8729450903363947}

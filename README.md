@@ -1,2 +1,2 @@
 # ARL
-The pytorch implement for Attention Residual Learning for Skin Lesion Classification
+The pytorch implementation of Attention Residual Learning for Skin Lesion Classification
