@@ -67,12 +67,12 @@ python predict2017_mel.py
 
 We re-implemented with ARLNet50 for the task of Melanoma Classification: 
 
-|Work|params|AUC|Sensitivity|Specificity|
-|---|---|---|---|---|
-|201912|Yuan Xue|Shape-Aware Organ Segmentation by Predicting Signed Distance Maps [(arxiv)](https://arxiv.org/abs/1912.03849)|AAAI 2020|
+|Work|Params|AUC|Sensitivity|Specificity|
+|---|---|---|---|---|---|
+|Original paper|2.3|0.875|0.850|0.658|0.96| 
 
 |Work|params|AUC|ACC|Sensitivity|Specificity| 
-|---|---|---|---|---|---|---| 
+|---|---|---|---|---|---|
 |Original paper|2.3|0.875|0.850|0.658|0.96| 
 |Our work|2.35|0.872|0.850|0.487|0.937| 
 
