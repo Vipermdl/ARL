@@ -67,7 +67,7 @@ python predict2017_mel.py
 
 We re-implemented with ARLNet50 for the task of Melanoma Classification: 
 
-| Work | params $\times 10^{7}$ | AUC | ACC | Sensitivity | Specificity | 
+| Work | params | AUC | ACC | Sensitivity | Specificity | 
 | - | :-: | :-: | :-: | :-: | :-: | :-: | 
 |Original paper | 2.3 | 0.875 | 0.850 | 0.658 | 0.96 | 
 |Our work | 2.35 | 0.872 | 0.850 | 0.487 | 0.937 | 
