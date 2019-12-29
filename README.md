@@ -1,4 +1,4 @@
-# [Attention Residual Learning for Skin Lesion Classification](https://ieeexplore.ieee.org/document/8620285)
+# [Attention Residual Learning for Skin Lesion Classification](https://ieeexplore.ieee.org/document/8620285)(IEEE Transactions on Medical Imaging )
 
 ## Introduction
 
