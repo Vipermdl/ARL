@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This paper is published in IEEE Transactions on Medical Imaging, but this work is an unofficial code implemented by Pytorch. Some issues are different with original work:
+This work is an unofficial code implemented by Pytorch. Some issues are different with original work:
 
 * We don't employed additional dermoscopy images which is collected in ISIC Archive.
 * The data augment isn't same with original paper but the performance of our work is approximative.
