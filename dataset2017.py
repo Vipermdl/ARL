@@ -4,7 +4,6 @@ import os
 import torch
 from PIL import Image
 import numpy as np
-# from image_type import *
 class ISICDataset(data.Dataset):
 
     def __init__(self, path, mode="training", crop=None, transform=None, task=None):
@@ -25,8 +24,6 @@ class ISICDataset(data.Dataset):
         image = self.pil_loader(img_path)
         if self.crop:
             image = self.crop(image)
-        #hog = get_hogimage(image)
-        #hog = self.totensor_nomalize(hog)
         if self.transform:
             image = self.transform(image)
         if self.task=="mel":
