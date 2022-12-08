@@ -2,7 +2,7 @@ addict==2.2.0
 anykeystore==0.2
 apex==0.9.10.dev0
 batchgenerators==0.19.3
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 cryptacular==1.5.5
